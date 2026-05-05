@@ -2,7 +2,6 @@
 
 A conversational CLI agent that clones any website by analyzing its design system and generating a fully working HTML/CSS/JS clone — directly in your terminal.
 
-Built as Assignment 02 for the AI Agents course.
 
 ---
 
